@@ -1,0 +1,26 @@
+{
+  "name": "codingexercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanDaManTran/codingExercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanDaManTran/codingExercises/issues"
+  },
+  "homepage": "https://github.com/DanDaManTran/codingExercises#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.4",
+    "chai": "^4.2.0",
+    "lodash": "^4.17.11",
+    "mocha": "^6.1.4"
+  }
+}
